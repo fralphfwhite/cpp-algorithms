@@ -16,3 +16,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-03-30
 - Updated dependencies to latest stable versions
 - Resolved TODO items from previous session
+
+## 2026-04-13
+- Improved log message formatting
+- Wrote notes on upcoming feature design
+- Verified API endpoint response schema
