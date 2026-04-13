@@ -21,3 +21,6 @@ Personal development log — notes, findings, and ongoing work.
 - Improved log message formatting
 - Wrote notes on upcoming feature design
 - Verified API endpoint response schema
+
+## 2026-04-13
+- Reorganised test fixtures
